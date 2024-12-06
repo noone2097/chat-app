@@ -1,0 +1,54 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  margin: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* .login-page {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(225, 225, 225);
+  
+} */
+/* .card {
+  width: 500px;
+  position: relative;
+  top: 100px;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #3280a4;
+
+} */
+.title {
+  padding-top: 32px;
+  font-size: 22px;
+  color: white;
+  font-weight: 700;
+}
+.inp {
+  width: calc(100% - 16px);
+  margin-top: 25px;
+  padding: 8px;
+  background-color: #e6f7ff;
+  outline: none;
+  border: 1px solid #e6f7ff;
+}
+
+button {
+  margin-top: 40px;
+  width: 100%;
+  padding: 8px;
+  color:white;
+  border: none;
+}
+
+
+
+
+
+
+
